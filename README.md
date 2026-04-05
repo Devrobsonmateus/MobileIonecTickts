@@ -10,10 +10,12 @@
 
 | Painel de Fichas | Totem (Cliente) |
 |:---:|:---:|
-| ![Painel de Fichas](./printsTela/painel.png) | ![Totem](./printsTela/totemSenhas.png) |
+| ![Painel de Fichas]<img width="1915" height="869" alt="painel" src="https://github.com/user-attachments/assets/40a8da5a-04a8-4b65-99f1-42a4b26adefb" />
+| ![Totem]<img width="1914" height="865" alt="totemSenhas" src="https://github.com/user-attachments/assets/b0004e5c-e42d-4a13-962d-27c68adfc440" />
+|
 | **Guichê (Atendente)** | **Relatórios** |
 | ![Guichê] <img width="1917" height="873" alt="guiche" src="https://github.com/user-attachments/assets/ef1cb3a3-b7ef-4a57-89da-79c6844b3e57" />
- | ![Relatório] <img width="1915" height="872" alt="relatorio" src="https://github.com/user-attachments/assets/1989f54a-bf50-49a7-838a-50a138c54ad1" />
+ |  <img width="1915" height="872" alt="relatorio" src="https://github.com/user-attachments/assets/1989f54a-bf50-49a7-838a-50a138c54ad1" />
  |
 
 <br>
